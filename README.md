@@ -14,7 +14,7 @@ These notes were mostly stolen from Thelis Callior and are new available under t
 ## Organizations
 
 * **Zhenterim** is a gang whose symbol is a winged serpent. According to Rennoq, they are an ancient thieves guild in Waterdeep.
-* **Xanathar** is the gang with the brawl in the pub. Rennoq doesn't know them, so that means they are a new gang. Their hideouts are believed to be located in the big sewer network below Waterdeep.
+* **Xanathar** is the gang with the brawl in the pub. Their symbol is a Xanathar Circle (a beholder) radiating ten spikes. Rennoq doesn't know them, so that means they are a new gang. Their hideouts are believed to be located in the big sewer network below Waterdeep.
 
 ## People
 
