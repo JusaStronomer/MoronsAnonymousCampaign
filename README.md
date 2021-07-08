@@ -3,7 +3,7 @@ These notes were mostly stolen from Thelis Callior and are new available under t
 
 ## Places
 
-* The **Yawning Portal** is aub with an OP barkeeper and a big whole that goes into the undermountain. We fought a troll there... and that's where we usually talk to Volo.
+* The **Yawning Portal** is a tavern with an OP barkeeper and a big whole that goes into the undermountain. We fought a troll there... and that's where we usually talk to Volo.
 * The **Skewered Dragon** is another pub... the barkeeper is called John... he reminds me of Artanis. Nix had a very long talk with him.
 * The **Trollskull** is our manor, in the Northward District of Waterdeep. It's in need of repairs.
 
