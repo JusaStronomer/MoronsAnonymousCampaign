@@ -3,8 +3,9 @@ These notes were mostly stolen from Thelis Callior and are new available under t
 
 ## Places
 
-* The **Yawning Portal** is aub with an OP barkeeper and a big whole that goes into the undermountain. We fought a troll there.
+* The **Yawning Portal** is aub with an OP barkeeper and a big whole that goes into the undermountain. We fought a troll there... and that's where we usually talk to Volo.
 * The **Skewered Dragon** is another pub... the barkeeper is called John... he reminds me of Artanis. Nix had a very long talk with him.
+* The **Trollskull** is our manor, in the Northward District of Waterdeep. It's in need of repairs.
 
 ## Streets
 
@@ -18,9 +19,9 @@ These notes were mostly stolen from Thelis Callior and are new available under t
 
 ## People
 
-* **Volo** is a super important author. He is the one who gave us a question to "find Raynar and Floon"(?).
+* **Volothamp 'Volo' Geddarm** is a super important author. He is the one who gave us a question to "find Raynar and Floon"(?).
 * **Renor (Reynar, Raynar?) Neverember** is a noble with red hair. He is the son of Daggult Neverember, the former afce of the Council of Lords.
-* **Floon (Flun?)** was seen with Renor, playing cards. He apparently knows the location of the Stone Head.
+* **Floon Blagmaar** was seen with Renor, playing cards. He apparently knows the location of the Stone Head.
 * **Daggult Neverember** is the former afce of the Council of Lords. He is also Renor's father.
 * **Lorel Silverhand** is the current face of the Council of Lords.
 
@@ -77,3 +78,13 @@ However, meanwhile, the Zhenterim, who didn't have the artifact but were also se
 Although we did rescue Renor, we couldn't find Floon. The red haired noble said his friend was taken by the Xanathar, to their place, somewhere below Waterdeep, in the vast sewer network. He urged us to go rescue Floon immediately, but we had not yet recovered from the battle with the kenkus.
 
 Therefore, we took a short rest before departing for this new goal. During the rest, Thelis identified the spoils from the warehouse, finding a Paper Bird and an Immovable Rod.
+
+Renor guided us to the closest sewer entrance... it's was locked. I failed to pick it, but Artanis just fixed the problem by smashing it. Inside the network, we found and followed markings of the Xanathar, that guided us to fight a gazer (a type of beholder) and to engage in a very uncomfortable battle against goblins archers firing through slits in a traproom.
+
+Eventually, we found one of the peole involved in the brawling at the Yawning Portal. He was arguing with a Duergar about sealing a door with blankets. We ambushed them and, as they refused to surrender, slayed them. It was a fierce battle, since the Duergar could increase it's size by a factor of 4. Afterwards, we found melted goblin corpses and the cause of the arguing we had heard: an acid slime.
+
+After sealing the door with blankets and checking another door, we heard screamings and carefully ventured towards it. We found Floon, our rescue target, being interrogated by an orc (Grum'shar). In that room, we also found a Mindflayer accompanied by an Intellect Devourer. After manifesting it's disappointment in the orc's ability to keep the hideout safe, the mindflayer left. Defeating the orc and the disembodied brain, we made stretchers (for Floon and Artanis, who got incapacitated in the battle) and made our way back to the surface.
+
+Volo thanked us for completing the quest he issued, but instead of paying in gold he offered a house, Trollskull Manor, located in the Northward District. Nix was very concerned about the state of the property and of the onus that we would be accepting with it. A tiefling magistrate, that was in the tavern, clarified some of our concerns and officialized the transaction, inviting us to visit her at her office for further questions.
+
+After our long rest, we leveled up, reaching level 2.
