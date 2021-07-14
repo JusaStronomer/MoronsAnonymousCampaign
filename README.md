@@ -97,7 +97,7 @@ After our long rest, we leveled up, reaching level 2.
 
 With my left hand, I wave in the air the gnomish symbols for "Guidance" and, with a **lockpick**, I unlock the magic potential in them from the very weave.
 
-Grasping that power with my left hand, I press it against PART-MEMBER's back while muttering in gnomish:
+Grasping that power with my left hand, I press it against PART-MEMBER's back while muttering in gnomish:  
 此世に潜在する力よ  
 我が知恵に免じて  
 友に指導を与え給え。  
@@ -107,7 +107,7 @@ Grasping that power with my left hand, I press it against PART-MEMBER's back whi
 
 I place **two lodestones** OVER-A-SURFACE and wave, with my left hand, a circle around them. On the air above, I wave the gnomish symbols for "Mending" and, with a **lockpick**, I unlock the magic potential in them from the very weave.
 
-The lodestones fuse into a faint light, which I graps with my left hand and press against TARGET, while muttering in gnomish:
+The lodestones fuse into a faint light, which I graps with my left hand and press against TARGET, while muttering in gnomish:  
 此世に潜在する力よ  
 我が知恵に免じて  
 此を繕（つくろ）い給え。  
@@ -119,7 +119,7 @@ I unwind **a piece of fine silver wire**, warding an area around TARGET1. Then, 
 
 With the preparations in place, I wave the gnomish symbols for "Alarm" with my left hand on the air, near the bell, and with a **lockpick** I unlock the magic potential in them from the very weave.
 
-Grasping that power with my left hand, I touch the bell while muttering:
+Grasping that power with my left hand, I touch the bell while muttering:  
 此世に潜在する力よ  
 我が知恵に免じて  
 鐘を鳴らさせ給え。  
@@ -129,7 +129,7 @@ Grasping that power with my left hand, I touch the bell while muttering:
 
 I place **a pearl** and **an owl feather** OVER-A-SURFACE and wave, with my left hand, a circle around them. On the air above, I wave the gnomish symbols for "Identify" and, with a **lockpick**, I unlock the magic potential in them from the very weave.
 
-The pearl and feather fuse intoa  faint light, which I graps with my left hand and press against TARGET, while muttering in gnomish:
+The pearl and feather fuse intoa  faint light, which I graps with my left hand and press against TARGET, while muttering in gnomish:  
 此世に潜在する力よ  
 我が知恵に免じて  
 この物の正体を表せ給え。  
@@ -139,7 +139,7 @@ The pearl and feather fuse intoa  faint light, which I graps with my left hand a
 
 With my left hand, I wave in the air the gnomish symbols for Cure Wounds" and, with a **lockpick**, I unlock the magic potential in them from the very weave.
 
-Grasping that power with my left hand, I press it against PART-MEMBER's wound while muttering in gnomish:
+Grasping that power with my left hand, I press it against PART-MEMBER's wound while muttering in gnomish:  
 此世に潜在する力よ  
 我が知恵に免じて  
 友の傷を癒し給え。  
