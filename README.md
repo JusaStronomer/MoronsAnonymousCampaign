@@ -1,5 +1,5 @@
 # Morons Anonymous Campaign through the eyes of a halfling
-These notes were mostly stolen from Thelis Callior and are new available under the GNU General Public License Version 3.0.
+These notes contain my character's perspective from the Morons Anonymous Campaign. They were partially stolen from Thelis Callior and are new available under the GNU General Public License Version 3.0.
 
 ## Places
 
@@ -88,3 +88,64 @@ After sealing the door with blankets and checking another door, we heard screami
 Volo thanked us for completing the quest he issued, but instead of paying in gold he offered a house, Trollskull Manor, located in the Northward District. Nix was very concerned about the state of the property and of the onus that we would be accepting with it. A tiefling magistrate, that was in the tavern, clarified some of our concerns and officialized the transaction, inviting us to visit her at her office for further questions.
 
 After our long rest, we leveled up, reaching level 2.
+
+## Verbal and Somatic components for my character's spells
+
+### Using Thieves Tools
+
+#### Guidance
+(M: a lockpick)
+
+With my left hand, I wave in the air the gnomish symbols for "Guidance" and, with a lockpick, I unlock the magic potential in them from the very weave.
+
+Grasping that power with my left hand, I press it against PART-MEMBER's back while muttering in gnomish:
+此世に潜在する力よ
+我が知恵に免じて
+友に指導を与え給え。
+第零階位魔術:ガイダンス！
+
+#### Mending
+(M: two lodestones and a lockpick)
+
+I place two lodestones OVER-A-SURFACE and wave, with my left hand, a circle around them. On the air above, I wave the gnomish symbols for "Mending" and, with a lockpick, I unlock the magic potential in them from the very weave.
+
+The lodestones fuse into a faint light, which I graps with my left hand and press against TARGET, while muttering in gnomish:
+此世に潜在する力よ
+我が知恵に免じて
+此を繕（つくろ）い給え。
+第零階位魔術:メンディング！
+
+#### Alarm
+(M: a bell, a piece of fine silver wire, a hammer, a piton and a lockpick)
+
+I unwind a piece of fine silver wire, warding an area around TARGET1. Then, I hammer down a piton into TARGET2, using a bit of my wire to tie a bell to it.
+
+With the preparations in place, I wave the gnomish symbols for "Alarm" with my left hand on the air, near the bell, and with a lockpick I unlock the magic potential in them from the very weave.
+
+Grasping that power with my left hand, I touch the bell while muttering:
+此世に潜在する力よ
+我が知恵に免じて
+鐘を鳴らさせ給え。
+第一階位魔術:アラーム。
+
+#### Identify
+(M: a pearl worth 100gp, an owl feather and a lockpick)
+
+I place a pearl and an owl feather OVER-A-SURFACE and wave, with my left hand, a circle around them. On the air above, I wave the gnomish symbols for "Identify" and, with a lockpick, I unlock the magic potential in them from the very weave.
+
+The pearl and feather fuse intoa  faint light, which I graps with my left hand and press against TARGET, while muttering in gnomish:
+此世に潜在する力よ
+我が知恵に免じて
+この物の正体を表せ給え。
+第一階位魔術:アイデンティファイ。
+
+#### Cure Wounds
+(M: a lockpick)
+
+With my left hand, I wave in the air the gnomish symbols for Cure Wounds" and, with a lockpick, I unlock the magic potential in them from the very weave.
+
+Grasping that power with my left hand, I press it against PART-MEMBER's wound while muttering in gnomish:
+此世に潜在する力よ
+我が知恵に免じて
+友の傷を癒し給え。
+第一階位魔術:キュア・ウーンズ！
