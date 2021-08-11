@@ -1,5 +1,5 @@
 # Morons Anonymous Campaign through the eyes of a halfling
-These notes contain my character's perspective from the Morons Anonymous Campaign. They were partially stolen from Thelis Callior and are new available under the GNU General Public License Version 3.0.
+These notes contain my character's perspective from the Morons Anonymous Campaign. They were partially stolen from Thelis Callior and are now available under the GNU General Public License Version 3.0.
 
 ## Places
 
