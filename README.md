@@ -6,6 +6,7 @@ These notes contain my character's perspective from the Morons Anonymous Campaig
 * The **Yawning Portal** is a tavern with an OP barkeeper and a big whole that goes into the undermountain. We fought a troll there... and that's where we usually talk to Volo.
 * The **Skewered Dragon** is another pub... the barkeeper is called John... he reminds me of Artanis. Nix had a very long talk with him.
 * The **Trollskull** is our manor, in the Northward District of Waterdeep. It's in need of repairs.
+* The **Gralhund Villa** is a manor in the Northward District of Waterdeep... something is wrong there.
 
 ## Streets
 
@@ -16,16 +17,21 @@ These notes contain my character's perspective from the Morons Anonymous Campaig
 
 * **Zhenterim** is a gang whose symbol is a winged serpent. According to Rennoq, they are an ancient thieves guild in Waterdeep.
 * **Xanathar** is the gang with the brawl in the pub. Their symbol is a Xanathar Circle (a beholder) radiating ten spikes. Rennoq doesn't know them, so that means they are a new gang. Their hideouts are believed to be located in the big sewer network below Waterdeep.
+* **The Grey Hands** is a paramilitary organization.
 
 ## People
 
 * **Volothamp 'Volo' Geddarm** is a super important author. He is the one who gave us a question to "find Raynar and Floon"(?).
 * **Renor (Reynar, Raynar?) Neverember** is a noble with red hair. He is the son of Daggult Neverember, the former afce of the Council of Lords.
-* **Floon Blagmaar** was seen with Renor, playing cards. He apparently knows the location of the Stone Head.
+* **Floon Blagmaar** was seen with Renor, playing cards. He apparently knows the location of some stone artifact gangs have been fighting to obtain.
 * **Daggult Neverember** is the former afce of the Council of Lords. He is also Renor's father.
 * **Lorel Silverhand** is the current face of the Council of Lords.
+* **Valetta** is a bronze dragonborn lady... she is my boss at the House of Inspiring Hands.
+* **Nim** is a nimblewright. He is so good he can build other nimblewrights.
 
 ## The story so far
+
+**SESSION 1: UNTITLED**
 
 We all met at the Yawning Portal. There is a whole in the middle of the pub that leads to the undermountain and people will often go down as some sort of local ritual I don't quite understand yet.
 
@@ -37,6 +43,8 @@ Two individuals of interest also stayed inside, instead of running away: Volo an
 
 Volo thanked us, welcomed us to Waterdeep, gaves a copy of his enchiridion (a book of his own authorship countaining a lot of information about the city) and gave us a quest.
 
+**SESSION 2: UNTITLED**
+
 I don't quite remember the details of the request, because I'm ashamed although I was paying attention, I am quick to forget what I didn't note down... but from what I understand, a noble has gone missing: Renor Neverember... and we were asked to find him. Thelis or Nix might have a much better and more detailed summary of the task.
 
 Anyway, after resting, we followed the a lead to the docks disctrict. On our way, we found a commotion at Snail Street. I went past the crowd to check it and, according to Thelis's recap of what I should have seen, 6 people were dead and 3 in cuffs (and being questioned).
@@ -46,6 +54,8 @@ We took an alternative route and arrived at a mysterious shop that sold all sort
 Afterwards, we found the Skewered Dragon, a tavern with a very funny barkeeper, John. Nix had a very long chat with him and, in the course of a few interviews, we figured out that Renor was seen playing cards with someone named Floon. Both of them were thorwn out of the tavern by 5 gangters (Thelis recalls that one of them had a winged snake tatto on his neck and we later associated that mark with the Zhenterim Gang).
 
 Upon further investigation we discovered that there is a warehouse in Candle Lane with a snake symbol at the door. That's a lead on where Renor and Floon might have been taken to.
+
+**SESSION 3: UNTITLED**
 
 We found the warehouse, that was locked, and after a few failed attempts to pick it, we decided to brake in through the window. We were greeted by an arrow, fired by humanoid creatures in long cloaks with hoods. They were kenku, but despite Rennoq's attempt to talk to them, we couldn't understand why they were there and why they were attacking us.
 
@@ -79,6 +89,8 @@ Although we did rescue Renor, we couldn't find Floon. The red haired noble said 
 
 Therefore, we took a short rest before departing for this new goal. During the rest, Thelis identified the spoils from the warehouse, finding a Paper Bird and an Immovable Rod.
 
+**SESSION 4: UNTITLED**
+
 Renor guided us to the closest sewer entrance... it's was locked. I failed to pick it, but Artanis just fixed the problem by smashing it. Inside the network, we found and followed markings of the Xanathar, that guided us to fight a gazer (a type of beholder) and to engage in a very uncomfortable battle against goblins archers firing through slits in a traproom.
 
 Eventually, we found one of the peole involved in the brawling at the Yawning Portal. He was arguing with a Duergar about sealing a door with blankets. We ambushed them and, as they refused to surrender, slayed them. It was a fierce battle, since the Duergar could increase it's size by a factor of 4. Afterwards, we found melted goblin corpses and the cause of the arguing we had heard: an acid slime.
@@ -89,58 +101,27 @@ Volo thanked us for completing the quest he issued, but instead of paying in gol
 
 After our long rest, we leveled up, reaching level 2.
 
-## Verbal and Somatic components for my character's spells
+**SESSION 5: UNTITLED**
 
-### Using Thieves Tools
+We went to Trollskull Manor, in Trollskull Alley, but only to find the place in ruins, even though it's in a nice neighborhood.
+According to rumors, it was "maybe an orphanage... maybe an inn... lots of owners, but often abandoned. Certified sketchy".
 
-#### Guidance
+We were greated by someone from the Fellowship of Inkeepers Office in the manor, who seemed to want to restore the Trollskull to it's former glory. While exploring the place, Rennoq was obsessed about dead children bodies on the walls. Furthermore, Thelis suspected there were ghosts around. Turns out once upon a time "Mother Esther" used this place to eat children, so Rennoq's suspicions proved to be correct.
 
-With my left hand, I wave in the air the gnomish symbols for "Guidance" and, with a **lockpick**, I unlock the magic potential in them from the very weave.
+**SESSION 6: UNTITLED**
 
-Grasping that power with my left hand, I press it against PART-MEMBER's back while muttering in gnomish:  
-此世に潜在する力よ  
-我が知恵に免じて  
-友に指導を与え給え。  
-第零階位魔術:ガイダンス！  
+We fought and defeated Mother Esther, uncovering a piece of the sad history of Trollskull Manor. After discussing about what to do with the place, we decided to revitilize the tavern. Nix used her connections to get us money and the business went pretty well. During the following weeks, I worked at the House of Inspiring Hand (Templo of Gond, God of Crafting).
 
-#### Mending
+**SESSION 7: PIGEONS OF WATERDEEP**
 
-I place **two lodestones** OVER-A-SURFACE and wave, with my left hand, a circle around them. On the air above, I wave the gnomish symbols for "Mending" and, with a **lockpick**, I unlock the magic potential in them from the very weave.
+One day, we were surprised by a big explosion in the neighborhood. Nix helped the survivors, while Thelis "securred gemstones found in some of the corpses to later hand them over to the City Watch". Rennoq studied the scene and concluded it was a fireball spell.
 
-The lodestones fuse into a faint light, which I graps with my left hand and press against TARGET, while muttering in gnomish:  
-此世に潜在する力よ  
-我が知恵に免じて  
-此を繕（つくろ）い給え。  
-第零階位魔術:メンディング！  
+As a result of our very own investigation, we painted the following scenario: an autonomous puppet used a necklace with enchanted gemstones to cast fireball at a specific target, hitting bystanders as a consequence. The House of Inspiring Hands was our best bet to search for further information.
 
-#### Alarm
+Why are we getting involved in this? Well, maybe because random explosions in the North Ward are bad for our tavern business... by the way, at somepoint I built a steel panda. I don't remember exactly when and how... I don't remember doing it at all... but I just "know" I did.
 
-I unwind **a piece of fine silver wire**, warding an area around TARGET1. Then, I **hammer** down **a piton** into TARGET2, using a bit of my wire to tie **a bell** to it.
+We were greated by Valetta, my boss, who sent us to see Nim, an autonomous nimblewright who... makes nimblewrights. Upset with what happened, she gave us a nimblewright detector (Wackadoo 3000) so we could bring the rogue puppet to justice.
 
-With the preparations in place, I wave the gnomish symbols for "Alarm" with my left hand on the air, near the bell, and with a **lockpick** I unlock the magic potential in them from the very weave.
+**SESSION 8: DO CATBOYS LAND ON THEIR FEET OR THEIR FACE? A CASE STUDY**
 
-Grasping that power with my left hand, I touch the bell while muttering:  
-此世に潜在する力よ  
-我が知恵に免じて  
-鐘を鳴らさせ給え。  
-第一階位魔術:アラーム。  
-
-#### Identify
-
-I place **a pearl** and **an owl feather** OVER-A-SURFACE and wave, with my left hand, a circle around them. On the air above, I wave the gnomish symbols for "Identify" and, with a **lockpick**, I unlock the magic potential in them from the very weave.
-
-The pearl and feather fuse intoa  faint light, which I graps with my left hand and press against TARGET, while muttering in gnomish:  
-此世に潜在する力よ  
-我が知恵に免じて  
-この物の正体を表せ給え。  
-第一階位魔術:アイデンティファイ。  
-
-#### Cure Wounds
-
-With my left hand, I wave in the air the gnomish symbols for Cure Wounds" and, with a **lockpick**, I unlock the magic potential in them from the very weave.
-
-Grasping that power with my left hand, I press it against PART-MEMBER's wound while muttering in gnomish:  
-此世に潜在する力よ  
-我が知恵に免じて  
-友の傷を癒し給え。  
-第一階位魔術:キュア・ウーンズ！  
+We used the detector to search for the rogue nimblewright in many different places. Eventually we were able to narrow it down to Gralhund Villa. I manifested my disappointment in having to break into private property again, so Soren decided to take a more sutle and... less invasive alternative: he turned into a cat. However, Cat Boy Soren got into trouble, so we had to break in anyway to save him. He was being attacked by shadows. Now knowing something is clearly wrong with that place, we ventured further within to see what we could find.
